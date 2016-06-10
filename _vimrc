@@ -65,5 +65,3 @@ set smartindent
 
 " タブ文字の表示幅
 set tabstop=2
-
-" test

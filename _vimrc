@@ -41,6 +41,8 @@ if has("autocmd")
 	\ endif
 endif
 
+autocmd Vimenter * execute 'NERDTree'
+
 " vimのオプション
 " コマンドラインモードで<Tab>キーによるファイル名補完を有効にする
 set wildmenu
